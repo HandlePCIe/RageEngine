@@ -1,0 +1,25 @@
+[submodule "Rage/vendor/spdlog"]
+	path = Rage/vendor/spdlog
+	url = ../../gabime/spdlog.git
+	branch = v1.x
+[submodule "Rage/vendor/GLFW"]
+	path = Rage/vendor/GLFW
+	url = ../../TheCherno/glfw.git
+	branch = master
+[submodule "Rage/vendor/imgui"]
+	path = Rage/vendor/imgui
+	url = ../../TheCherno/imgui.git
+	branch = docking
+[submodule "Rage/vendor/glm"]
+	path = Rage/vendor/glm
+	url = ../../g-truc/glm.git
+	branch = master
+[submodule "Rage/vendor/yaml-cpp"]
+	path = Rage/vendor/yaml-cpp
+	url = https://github.com/thecherno/yaml-cpp
+[submodule "Rage/vendor/ImGuizmo"]
+	path = Rage/vendor/ImGuizmo
+	url = https://github.com/thecherno/imguizmo
+[submodule "Rage/vendor/Box2D"]
+	path = Rage/vendor/Box2D
+	url = https://github.com/TheCherno/Box2D
